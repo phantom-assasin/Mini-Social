@@ -1,6 +1,3 @@
-import { Link } from "react-router-dom";
-import BasicLayout from "../layout/BasicLayout";
-
 const Home = () => {
   return (
     <div className="pt-12">

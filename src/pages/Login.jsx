@@ -60,8 +60,8 @@ export default function Login() {
         </div>
 
         <p className="text-sm text-gray-600 mb-4 text-center">
-          Not registered?{" "}
-          <Link to="/signup" className="text-blue-500 hover:underline">
+          Not registered?
+          <Link to="/signup" className="text-blue-500 hover:underline ml-1">
             Sign up
           </Link>
         </p>
