@@ -22,7 +22,7 @@ export default function Login() {
     console.log("Login data:", data);
     // TODO: Hook into Zustand or API
     localStorage.setItem("token", "test token");
-    navigate("/dashboard");
+    navigate("/posts");
   };
 
   return (
